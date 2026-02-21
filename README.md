@@ -1,2 +1,3 @@
-## Myntra-Social-Media-Analytics-Project
-This repository holds the social media analytics to improve the sales of Myntra
+## IKEA_Retail_Customer_Retention_Analytics
+Designed an IKEA Customer Retention Analytics Dashboard using PowerBI that integrates multiple datasets and delivers actionable, data-driven insights for
+business leaders.
